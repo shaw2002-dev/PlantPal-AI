@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🌿 PlantPal AI
 
 > **An AI-powered plant identification and care assistant built with Flutter.**
